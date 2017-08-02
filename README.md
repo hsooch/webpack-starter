@@ -7,7 +7,7 @@
 ## Usage
 
 ```
-git clone https://github.com/hanbit-java003/webpack-starter.git
+git clone https://github.com/nahcoos/webpack-starter.git
 cd webpack-starter
 npm install
 npm start
